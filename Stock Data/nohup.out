@@ -1,0 +1,12 @@
+  File "livecharting_3.py", line 22
+    global x
+    ^
+IndentationError: unexpected indent
+  File "livecharting_3.py", line 22
+    global x
+    ^
+IndentationError: unexpected indent
+  File "livecharting_3.py", line 22
+    global x
+    ^
+IndentationError: unexpected indent
